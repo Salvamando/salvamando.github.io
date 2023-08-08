@@ -1,8 +1,4 @@
-# salvamando.github.io
-<!DOCTYPE html>
-<html>
-<head>
-	<title>HTML Table Generator</title> 
+
 	<style>
 		.demTable {
 			border:3px solid #00364a;
